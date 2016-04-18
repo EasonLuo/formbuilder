@@ -1,5 +1,11 @@
 form[attributes]
 
-sections>fieldsets>fieldgroups>fields
+sections[type=default,step]>fieldsets>fieldgroups>fields
 
-controls
+
+
+
+controls>button[type=submits,next,previous,save,submit]
+
+behavour
+
